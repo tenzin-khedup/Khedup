@@ -1,4 +1,4 @@
 # Khedup-demo
 First Git Repository.
 <br>
-Author - Tenzin Khedup
+Author - Tenzin Phakdol
